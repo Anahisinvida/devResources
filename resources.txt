@@ -1,1 +1,129 @@
+//                                                     
+//                     #@@@@@@@@@@                     
+//                 @@@@           @@@@=                
+//              @@@                   +@@.             
+//           :@@                         @@%           
+//          @@                             @@:         
+//        @@                                 @@        
+//       @@                                   @@       
+//      @@                                     @@      
+//     @@                                       @@     
+//    @@                                         @@    
+//    @@           @@@@           @@@@           =@.       - Hola, soy anahiSinVida
+//   @@           -@@@@           @@@@@           @@       - inicie en el desarrollo por hobby
+//   @@             @#             -@             @@       - pero ahora lo quiero mucho.
+//   @@                                           #@%      - tuve problemas para empezar 
+//   @@                                            @@      - por que TDAH
+//   @@                                            @@      - confundo número y a veces letras con números
+//   @@                                           #@%      - pero si tienes duda de si puedes empezar
+//   @@         @                       =         @@       - a programar, esta es tu señal para saber que
+//   @@         @@                     @@         @@       - SÍ, SÍ, SÍ, TODOS PODEMOS. 
+//    @@         @@#                  @@         =@.       - yo no era ingeniera ni nada. 
+//    @@           @@@             @@@           @@        - ni sé bien math, pero ha sido muy bonito saber
+//     @@             %@@@@@@@@@@@@             @@         - que todos podemos programar. 
+//      @@                                     @@          - te dejo unos recursos que te pueden 
+//       @@                                   @@           - ¡Date tiempo!
+//        @@                                 @@            - dejo este repo como recordatorio de que todos
+//          @@                             @@.             - podemos volver a empezar. 
+//           :@@                         @@%           
+//              @@@                   +@@.                p.d: Confía en el proceso.  
+//                 @@@@           @@@@=                
+//                     #@@@@@@@@@@                     
+//                                                     
+
+
+
+###### BOOTCAMP TOTALMENTE GRATUITO #########
+
+- GENERATION - Como egresada de la institución puedo recomendar 100% las clases, su maestros y su recursos. 
+Es una experiencia llena de aprendizaje y sales con un muy bien nivel para comenzar a programar. 
+Además está orientado a la empleabilidad y son súper inclusivos. Sin duda una gran experiencia. 
+
+PUEDES POSTULARTE AL BOOTCAMP DE 12 SEMANAS EN: 
+https://mexico.generation.org/national-online/desarrolladora-java-full-stack/
+
+EN 12 SEMANAS APRENDES
+
+HTML
+CSS
+JAVASCRIP
+JAVA
+SQL
+A HACER UN SITIO WEB EN EQUIPO. MUY BELLO. 
+Y MUCHAS SOFT SKILLS 🤓
+
+
+############ BECAS INROADS ############
+
+
+Solicité una beca para certificarme como UX designer por medio de Google y quedé seleccionada. 
+Es súper fácil aplicar y te dan todos los cursos gratis siempre y cuando no dejes de hacerlos. 
+
+https://inroads.org.mx/convocatorias-y-eventos/
+
+
+###### BOOTCAMP NO TAN GRATUITO #########
+
+Hay otro bootcamp orientado meramente a mujeres. No lo he explorado al 100 pero lo he escuchado de muchos 
+Compañeres. Si eres mujer y estás buscando una oportunidad para cambiar de path de carrera, esta puede ser 
+La solución para ti. 
+
+https://www.laboratoria.la/
+
+
+###### SITIOS PARA APRENDER A PROGRAMAR #########
+
+Sinceramente usaré este repo como hub de contenido de recursos. Muchos de hechos lo he hecho y otros 
+De ellos no por tema de dificultad. Soy muy bebé en el tema de desarrollo, pero puede que a ti te funcionen. 
+No los descartes. :)
+
+La verdad el que más me ha ayudado a mi por TDAH es: 
+
+### CODEACADAMEY ###
+
+Es una sub a la que se le tiene que invertir algo de dinero, pesero, los ejercicios son súper abstraídos, la interfaz es amigable y además tiene mil y un cursos de path de carrera, lenguajes diversos e incluso ejercicios para pasar las pruebas técnicas de los empleadores. 
+
+https://www.codecademy.com/learn
+
+Hay cursos de 
+HTML
+CSS
+JAVA
+JAVASCRIPT
+PYTHON 
+WEB INTERACTIVA 
+ETC. 
+
+
+También está el poderosísismo 
+
+####### HACKERANK ############
+
+(Si ya tienes poquito conocimiento de algún lenguaje)
+Cuando inicié este recursos se me hizo muy avanzado, pero si quieres ponerte un reto más duro, esta puede ser tu opción. Es completamente gratis y los puzzles son una maravilla. 
+
+https://www.hackerrank.com/dashboard 
+
+Yo no era muy matemática, pero he empezado por aquí: 
+https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
+
+Otro que me recomendaron mucho y en el que apenas estoy empezando es
+
+### CODEWARS ###
+
+Le dije a una maravillosa persona que quiero mucho que me recomendara algunos ejercicios - que aún no comienzo - pero quizá te pueden ayudarte a dar una guía para complementar con otros cursos que estés tomando.
+
+https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&beta=false&order_by=sort_date%20desc
+ 
+
+Seguiré alimentando este repo. Quizá lo haga mejor, pero por el momento, esto fue con lo que comencé y que me ha ayudado a poder aprender a hacer cosas nuevas. 
+
+
+Saludos. 
+
+
+
+
+
+
 
